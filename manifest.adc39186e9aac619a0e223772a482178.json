@@ -32,7 +32,7 @@
     }
   ],
   "name": "Voltaic Interface",
-  "short_name": "VoltaicInterface",
+  "short_name": "Voltaic Interface",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
