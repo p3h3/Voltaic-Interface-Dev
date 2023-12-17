@@ -34,7 +34,7 @@
   "name": "Voltaic Interface",
   "short_name": "Voltaic Interface",
   "orientation": "portrait",
-  "display": "standalone",
+  "display": "fullscreen",
   "start_url": ".",
   "description": "A software for interaction with all voltaic products via Bluetooth Low Energy",
   "background_color": "#ffffff"
