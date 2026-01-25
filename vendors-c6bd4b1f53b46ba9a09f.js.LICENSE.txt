@@ -32,6 +32,12 @@
  * Copyright (c) 2016 Jorik Tangelder;
  * Licensed under the MIT license */
 
+/**
+ * @license
+ * Copyright 2019 Google LLC
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 //! moment.js
 
 //! moment.js locale configuration
