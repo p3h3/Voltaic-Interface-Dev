@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "icon_1500x1500.72c5e7fc264b2cea184c08807562af29.png",
+      "sizes": "1500x1500",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_1024x1024.997cf6613e5619e17f5f49202d2f79c3.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_512x512.f93bae6ea75f386bce1be21b02cbde3f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.c85978c466c59a61092ad5742fc906b9.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.0b0e5b0ea1e49f76f1085c18a0b6fabd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_64x64.b19ee21c36d54f126df3c72cba25809b.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "name": "Voltaic Interface",
+  "short_name": "Voltaic Interface",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "start_url": ".",
+  "description": "A software for interaction with all voltaic products via Bluetooth Low Energy",
+  "background_color": "#ffffff"
+}
