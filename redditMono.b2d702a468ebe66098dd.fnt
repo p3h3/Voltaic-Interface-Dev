@@ -1,6 +1,6 @@
 info face="Reddit Mono" size=256 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=0,0,0,0 spacing=1,1 outline=0
 common lineHeight=256 base=205 scaleW=1024 scaleH=1024 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
-page id=0 file="redditMono_0.bff1e2dc1f756a6a6379.png"
+page id=0 file="redditMono_0.33b179954feec6c58aaf.png"
 chars count=96
 char id=13   x=1019  y=124   width=3     height=1     xoffset=-1    yoffset=255   xadvance=91    page=0  chnl=15
 char id=32   x=126   y=159   width=3     height=1     xoffset=-1    yoffset=255   xadvance=91    page=0  chnl=15
